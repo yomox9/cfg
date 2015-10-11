@@ -1,0 +1,32 @@
+// * * * * * typ executing command
+// - - - - -  -
+// ¦ ¦ ¦ ¦ ¦  ¦
+// ¦ ¦ ¦ ¦ ¦  +---- typs are: console(Server Command), system(System Command), player(Player Console)
+// ¦ ¦ ¦ ¦ +---- Weekday (0-7, Sunday is 0 or 7)
+// ¦ ¦ ¦ +------ Month (1-12)
+// ¦ ¦ +-------- Day (1-31)
+// ¦ +---------- Hour (0-23)
+// +------------ Minute (0-59)
+//
+// Allowed Syntaxes:
+// * 		= All, Wildcard
+// */x		= Every x min/hour/day/month/weekday
+// x-y  	= From x to y
+// x,y,z 	= On x, y and z
+//
+// Examples:
+//
+// Loads a Plugin on every 15. of the Month and unload it on the 16. again
+// 0 0 15 * * console sm plugins load myplugin
+// 0 0 16 * * console sm plugins unload myplugin
+//
+// Makes a Backup of the server every three hours
+// * */3 * * * system tar zcvf backup.tar.gz "/home/user/server"
+//
+// Every player say: Why am i writing? At 15.20, 15.40, 16.20, 16.40, 17.20, 17.40, 20.20 and 20.40
+// 20,40 15-17,20 * * player say "why am i writing ?"
+//
+// More examples here: http://www.thesitewizard.com/general/set-cron-job.shtml
+//
+// Just write your Cronjobs below this Line!
+* * * * * system "echo.>nmrih\logs\AM_NMRiH_SRCDS_srv04.txt"

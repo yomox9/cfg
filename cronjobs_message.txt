@@ -1,0 +1,3 @@
+sm_say 2015/08/25 Add map : nmo_hex_v2
+sm_say 2015/09/07 Add map : nmo_condemned_test
+sm_say 2015/09/25 Itemshop(!shop) changed.
