@@ -1,0 +1,2 @@
+sm_say 連絡です
+sm_csay 連絡です

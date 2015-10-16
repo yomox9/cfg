@@ -1,0 +1,2 @@
+sm_say This server will reboot for maintenance.
+sm_csay This server will reboot

@@ -1,0 +1,2 @@
+sm_say Server will boot in 10 minutes.
+sm_csay Server will boot in 10 minutes.
