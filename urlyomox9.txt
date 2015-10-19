@@ -1,0 +1,2 @@
+sv_downloadurl "http://yomox9.mydns.jp/"	//DLサーバーのURL（無記入ならSRCDSからDLされます）
+sv_downloadurl

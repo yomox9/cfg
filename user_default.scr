@@ -1,0 +1,127 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// User options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Tue May 26 04:33:22 AM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION INFO_OPTIONS
+{
+	"cl_vmcamera_enabled"
+	{
+		"Enable viewmodel headbobbing"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_stickyironsight" //the convar
+	{
+		"Enable toggable ironsights"  //the description
+		{ BOOL }  //the type of convar
+		{ "1" }  //the boolean value
+	}
+
+	"cl_ejectbrass"
+	{
+		"Enables ejecting bullet casings/shotgun shells"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_muzzle_dlight"
+	{
+		"Enable Dynamic Lighting for Muzzle Flashes (expensive)"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_disablehtmlmotd"
+	{
+		"Disable HTML MOTD"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"nmrih_screenspace"
+	{
+		"Enable screen shaders (disable only for troubleshooting)"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"nmrih_grain"
+	{
+		"Enable film grain (experimental)"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"nmrih_grain_intensity"
+	{
+		"Intensity of Film Grain Shader"
+		{ SLIDER 1 40 }
+		{ "20" }
+	}
+
+	"nmrih_lensflare"
+	{
+		"Enable lens flare (experimental)"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"nmrih_dof"
+	{
+		"Enable Depth of Field (experimental)"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"nmrih_ssao"
+	{
+		"Enable HBAO (experimental)"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"mp_decals" //convar
+	{
+		"Multiplayer decal limit"
+		{ NUMBER 0 4096 }
+		{ "200" }
+	}	
+}

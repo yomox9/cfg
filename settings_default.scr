@@ -1,0 +1,119 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// Multiplayer options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life Server Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Mon Jul 12 05:28:33 PM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION SERVER_OPTIONS
+{
+	"hostname"
+	{
+		"#Valve_Hostname"
+		{ STRING }
+		{ "NMRiH: Server" }
+	}
+
+	"maxplayers"
+	{
+		"#Valve_Max_Players"
+		{ LIST 
+			"2" "2" 
+			"3" "3" 
+			"4" "4" 
+			"5" "5" 
+			"6" "6" 
+			"7" "7" 
+			"8" "8" 
+		}
+		{ "0" }
+	}
+
+	"sv_password"
+	{
+		"#Valve_Server_Password"
+		{ STRING }
+		{ "" }
+	}
+	
+	"sv_difficulty"
+	{
+		"#NMRiH_Difficulty"
+		{ LIST 
+			"#NMRiH_Difficulty_Classic" 	"classic" 
+			"#NMRiH_Difficulty_Casual"  	"casual" 
+			"#NMRiH_Difficulty_Nightmare"	"nightmare" 
+		}
+		{ "0" }
+	}
+	
+	"mp_timelimit"
+	{
+		"#NMRiH_Map_Time"
+		{ NUMBER -1 -1 }
+		{ "20" }
+	}
+	
+	"sv_lan_only"
+	{
+		"#NMRiH_LAN"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"mp_friendlyfire"
+	{
+		"#NMRiH_FriendlyFire"
+		{ BOOL }
+		{ "1" }
+	}
+	
+	"sv_realism"
+	{
+		"#NMRiH_RealismMode"
+		{ BOOL }
+		{ "0" }
+	}
+	
+	"sv_hardcore_survival"
+	{
+		"#NMRiH_HardcoreSurvival"
+		{ BOOL }
+		{ "0" }
+	}
+	
+}

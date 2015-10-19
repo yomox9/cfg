@@ -1,0 +1,166 @@
+-----------------------------------------------------------------
+commmon —L‚è footer–³‚µ‚Å cln
+-----------------------------------------------------------------
+Unknown command "cln"
+CHANGE LEVEL: nms_cinema_v1
+L 10/03/2015 - 04:03:40: [SM] Changed map to "nms_cinema_v1"
+SoundEmitter:  removing map sound overrides [630 to remove, 0 to restore]
+---- Host_Changelevel ----
+SOLID_VPHYSICS static prop with no vphysics model! (models/props/street/cinemasign_1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props/street/grocery_roofsign_1.mdl)
+L 10/03/2015 - 04:03:40: -------- Mapchange to nms_cinema_v1 --------
+L 10/03/2015 - 04:03:40: Error log file session closed.
+'skill1.cfg' not present; not executing.
+** Duplicate Hammer Node IDs: Trying to precache breakable prop, but has no model name
+prop_door_breakable at (0.000, 0.000, 0.000) has no model name!
+nmrih_safezone_supply_piece at (0.000, 0.000, 0.000) has no model name!
+nmrih_health_station at (0.000, 0.000, 0.000) has no model name!
+item_inventory_box at (0.000, 0.000, 0.000) has no model name!
+item_glowstick at (0.000, 0.000, 0.000) has no model name!
+SV_StartSound: ambient/fire/fire_small_loop2.wav not precached (0)
+prop_door_rotating has Door model (models/props/misc/shop_door02.mdl) with no door_options! Verify that SKIN is valid, and has a corresponding options block in the model QC file
+Set motd from file 'cfg/motd_srv01.txt'
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+L 10/03/2015 - 04:03:41: [customvotes.smx] Directory does not exist. (addons\sourcemod\configs\customvotes).
+L 10/03/2015 - 04:03:41: [radio.smx] Loading the radio stations from "cfg/sourcemod/radiostations.ini"
+L 10/03/2015 - 04:03:41: [radio.smx] Finishing parsing "cfg/sourcemod/radiostations.ini" - Found 25 radio stations
+L 10/03/2015 - 04:03:42: [SM] Native "ReadFileLine" reported: invalid handle 0 (error: 4)
+L 10/03/2015 - 04:03:42: [SM] Displaying call stack trace for plugin "sm_skinchooser_hl2dm_test.smx":
+L 10/03/2015 - 04:03:42: [SM]   [0]  Line 1260, C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\sm_skinchooser_hl2dm_test.sp::LoadModels()
+L 10/03/2015 - 04:03:42: [SM]   [1]  Line 131, C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\sm_skinchooser_hl2dm_test.sp::OnMapStart()
+Server logging enabled.
+Server logging data to file logs\L1003101.log
+L 10/03/2015 - 04:03:42: Log file started (file "logs\L1003101.log") (game "c:\app\steamcmd\nmrihsrv\nmrih") (version "0")
+L 10/03/2015 - 04:03:42: server_cvar: "sv_contact" "yomox9@gmail.com"
+L 10/03/2015 - 04:03:42: server_cvar: "sv_alltalk" "1"
+L 10/03/2015 - 04:03:42: server_cvar: "sv_tags" "CustomMap,DeathNotifications,alltalk,rank,top10"
+L 10/03/2015 - 04:03:42: server_cvar: "sv_tags" "CustomMap,DeathNotifications,alltalk,rank,top10"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:3489776]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:39583812]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:147820359]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:144202305]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:53851474]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:102626478]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:145125196]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:106769843]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:119394271]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:162553651]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:101719274]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:158804704]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:209668015]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Banid: "<><[U:1:183658455]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:03:42: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "91.221.48.17")
+L 10/03/2015 - 04:03:42: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "121.108.126.162")
+L 10/03/2015 - 04:03:42: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "46.172.188.8")
+L 10/03/2015 - 04:03:42: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "186.228.164.229")
+L 10/03/2015 - 04:03:42: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "66.102.6.216")
+L 10/03/2015 - 04:03:42: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "42.124.22.118")
+Writing cfg/banned_user.cfg.
+Couldn't open cfg/banned_user.cfg
+Writing cfg/banned_ip.cfg.
+[SM] Changed cvar "sv_gravity" to "800".
+L 10/03/2015 - 04:03:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_gravity") (value "800")
+[SM] Changed cvar "md_decal_dista" to "10".
+L 10/03/2015 - 04:03:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "md_decal_dista") (value "10")
+[SM] Changed cvar "md_decal_printpos" to "0".
+L 10/03/2015 - 04:03:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "md_decal_printpos") (value "0")
+[SM] All plugins have been unloaded.
+[SM] There was no loading lock in effect.
+[SM] Loaded plugin admin-flatfile.smx successfully.
+[SM] Loaded plugin adminhelp.smx successfully.
+[SM] Loaded plugin adminmenu.smx successfully.
+[SM] Loaded plugin antiflood.smx successfully.
+[SM] Loaded plugin basebans.smx successfully.
+[SM] Loaded plugin basechat.smx successfully.
+[SM] Loaded plugin basecomm.smx successfully.
+[SM] Loaded plugin basecommands.smx successfully.
+[SM] Loaded plugin basetriggers.smx successfully.
+[SM] Loaded plugin basevotes.smx successfully.
+[SM] Loaded plugin clientprefs.smx successfully.
+[SM] Loaded plugin funcommands.smx successfully.
+[SM] Loaded plugin funvotes.smx successfully.
+[SM] Loaded plugin nextmap.smx successfully.
+[SM] Loaded plugin playercommands.smx successfully.
+[SM] Loaded plugin reservedslots.smx successfully.
+[SM] Loaded plugin sounds.smx successfully.
+[SM] Loaded plugin autojoingame.smx successfully.
+[SM] Loaded plugin nmrih_infection_bleeding_notification.smx successfully.
+[SM] Loaded plugin nmp_deaths.smx successfully.
+L 10/03/2015 - 04:03:42: [cronjobs.smx] CronJob 'exec cronjobs_message.txt
+' successfully added!
+L 10/03/2015 - 04:03:42: [cronjobs.smx] CronJob 'server_quit_if_empty
+' successfully added!
+L 10/03/2015 - 04:03:42: [cronjobs.smx] CronJob 'server_cln_if_empty
+' successfully added!
+[SM] Loaded plugin cronjobs.smx successfully.
+[SM] Loaded plugin mapchooser_extended.smx successfully.
+[SM] Loaded plugin nominations_extended.smx successfully.
+[SM] Loaded plugin rockthevote_extended.smx successfully.
+[SM] Plugin gv.smx failed to load: Unable to open file.
+[SM] Loaded plugin nmp_tkp.smx successfully.
+[SM] Loaded plugin grenadetrails140_clientpref.smx successfully.
+L 10/03/2015 - 04:03:42: [simplewelcomemsg_y9v1.smx] Set the maximum number of lines of.
+[SM] Loaded plugin simplewelcomemsg_y9v1.smx successfully.
+[SM] Loaded plugin allchat.smx successfully.
+[SM] Loaded plugin server_quit_if_empty.smx successfully.
+[SM] Loaded plugin server_cln_if_empty_y9v1.smx successfully.
+[SM] Loaded plugin thirdperson_y9v1.smx successfully.
+[SM] Loaded plugin countrynick_y9v1.smx successfully.
+[SM] Loaded plugin sm_goto.smx successfully.
+L 10/03/2015 - 04:03:42: [radio.smx] Loading the radio stations from "cfg/sourcemod/radiostations.ini"
+L 10/03/2015 - 04:03:42: [radio.smx] Finishing parsing "cfg/sourcemod/radiostations.ini" - Found 25 radio stations
+[SM] Loaded plugin radio.smx successfully.
+[SM] Loaded plugin showhealth_y9v1.smx successfully.
+[SM] Loaded plugin SDC_Keypad_y9v1.smx successfully.
+[SM] Loaded plugin SDC_Tchinese_Obj_y9v1.smx successfully.
+----------------|         [HGR] Loading        |---------------
+----------------|         [HGR] Loaded         |---------------
+[SM] Loaded plugin hookgrabrope.smx successfully.
+[SM] Loaded plugin setspectate.smx successfully.
+[SM] Loaded plugin speclist.smx successfully.
+[SM] Loaded plugin weather_effect.smx successfully.
+L 10/03/2015 - 04:03:42: [saysounds.smx] [Say Sounds] No specific game detected
+[SM] Loaded plugin saysounds.smx successfully.
+[SM] Loaded plugin google_translate.smx successfully.
+[SM] Loaded plugin nmrih_grenade_effects.smx successfully.
+[SM] Loaded plugin ResizePlayers_y9v1.smx successfully.
+[SM] Loading is now locked; no plugins will be loaded or re-loaded.
+L 10/03/2015 - 04:03:42: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:03:42: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:03:42: server_cvar: "mp_timelimit" "1"
+L 10/03/2015 - 04:03:42: server_cvar: "mp_winlimit" "1"
+L 10/03/2015 - 04:03:42: server_cvar: "mp_maxrounds" "1"
+[SM] The loading lock is no longer in effect.
+[SM] Plugin crobjobs.smx is not loaded.
+[NMRiH] Weapon Menu: Loaded 46 weapons
+[SM] Loaded plugin weapon_menu_y9nolimitV1_noExplosion.smx successfully.
+[SM] Loaded plugin nmp_fia_y9v1.smx successfully.
+[SM] Loaded plugin nmrihstatsMySQL01.smx successfully.
+[SM] Loaded plugin sm_skinchooser_hl2dm.smx successfully.
+[SM] Loaded plugin nmrih_item_shop_v3_y9v4MySQL01.smx successfully.
+[SM] Loaded plugin disco.smx successfully.
+[SM] Loaded plugin sm_downloader.smx successfully.
+[SM] Loaded plugin weather_effect_forTest.smx successfully.
+L 10/03/2015 - 04:03:42: [cronjobs_AliveMonitoringY9v1_srv01.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv01.txt"
+' successfully added!
+[SM] Loaded plugin cronjobs_AliveMonitoringY9v1_srv01.smx successfully.
+[SM] Plugin map_config.smx is not loaded.
+[SM] Loaded plugin map_config.smx successfully.
+[SM] Pending Vote
+hostname: [JP][yomox9_srv01][Test]
+version : 1.0.9.4/24 0 insecure
+udp/ip  : 192.168.111.41:28015  (public ip: 157.192.50.219)
+steamid : [A:1:1736019969:5933] (90097476324397057)
+map     : nms_cinema_v1 at: 0 x, 0 y, 0 z
+players : 0 humans, 0 bots (8 max)
+edicts  : 196 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+Unknown command "sv_vote_kick_ban_duration"
+[SM] Changed cvar "sv_zombie_shambler_crawler_chance" to "0.15".
+L 10/03/2015 - 04:03:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_zombie_shambler_crawler_chance") (value "0.15")
+L 10/03/2015 - 04:03:42: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,infinite_ammo,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:03:42: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,infinite_ammo,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:03:42: server_cvar: "nmp_fia_no_reload" "1"
+L 10/03/2015 - 04:03:42: server_cvar: "nmp_fia_no_reload" "0"
+L 10/03/2015 - 04:03:42: [mapchooser_extended.smx] No official map list found for nmrih. Consider submitting one!
+[GT]server connected: ys24ys.iptime.org

@@ -1,0 +1,84 @@
+-----------------------------------------------------------------
+pl
+-----------------------------------------------------------------
+[SM] Listing 80 plugins:
+  01 "Admin File Reader" (1.7.3-dev+5258) by AlliedModders LLC
+  02 "Admin Help" (1.7.3-dev+5258) by AlliedModders LLC
+  03 "Admin Menu" (1.7.3-dev+5258) by AlliedModders LLC
+  04 "Anti-Flood" (1.7.3-dev+5258) by AlliedModders LLC
+  05 "Basic Ban Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  06 "Basic Chat" (1.7.3-dev+5258) by AlliedModders LLC
+  07 "Basic Comm Control" (1.7.3-dev+5258) by AlliedModders LLC
+  08 "Basic Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  09 "Basic Info Triggers" (1.7.3-dev+5258) by AlliedModders LLC
+  10 "Basic Votes" (1.7.3-dev+5258) by AlliedModders LLC
+  11 "Client Preferences" (1.7.3-dev+5258) by AlliedModders LLC
+  12 "Fun Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  13 "Fun Votes" (1.7.3-dev+5258) by AlliedModders LLC
+  14 "Nextmap" (1.7.3-dev+5258) by AlliedModders LLC
+  15 "Player Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  16 "Reserved Slots" (1.7.3-dev+5258) by AlliedModders LLC
+  17 "Sound Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  18 "Auto-JoinGame" (1.0.0) by Marcus
+  19 "[NMRiH]Infection&Bleeding Notification" (1.0.3) by ys24ys (a.k.a. 흑룡), Mr.Halt (a.k.a. 할짓없는놈, FineDrum)
+  20 "[NMRiH] Death Notifications" (1.1.1-20140202) by Leonardo
+  21 "Cronjobs" (1.2) by Popoklopsi
+  22 "MapChooser Extended" (1.10.2) by Powerlord, Zuko, and AlliedModders LLC
+  23 "Map Nominations Extended" (1.10.0) by Powerlord and AlliedModders LLC
+  24 "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
+  25 "[NMRiH] Team Kill Punishment" (1.3.1-20140310) by Leonardo
+  26 "Grenade Trails (clientpref)" (1.4) by Bacardi, Mr.Halt (a.k.a. 할짓없는놈, FineDrum), ys24ys (a.k.a. 흑룡)
+  27 "Simple Welcome Message" (1.2) by Zuko
+  28 "AllChat" (1.1.1) by Frenzzy
+  29 "server quit if empty" (1.0.0) by kimoto
+  30 "server cln if empty" (1.0.0) by kimoto / Modified yomox9
+  31 "Thirdperson yomox9 customized v1" (1.5) by shavit Mr.halt yomox9
+  32 "Country Nick Plugin modified yomox9" (1.1.1) by Antoine LIBERT aka AeN0 / Modified yomox9
+  33 "Player-Teleport by Dr. HyperKiLLeR" (1.2.0.0) by Dr. HyperKiLLeR
+  34 "SourceMod Radio" (1.0.0.13) by dubbeh
+  35 "Show Health" (1.0.2) by exvel
+  36 "Keypad Controller" (1.1) by Tast - SDC. Modified by yomox9
+  37 "Chinese Objective" (1.2) by Tast - SDC. modified by yomox9
+  38 "Hook Grab Rope" (1.1.4) by Sheepdude, SumGuy14
+  39 "Set Spectate" (1.0.0) by 데자뷰
+  40 "Spectator List" (1.1.2c) by GoD-Tony
+  41 "Weather effect" (1.3) by FrozDark (HLModders.ru LLC)
+  42 "Say Sounds (including Hybrid Edition)" (4.0.8) by Hell Phoenix|Naris|FernFerret|Uberman|psychonic|edgecom|woody|Miraculix|gH0sTy
+  43 "Google Translate Chating(구글번역기)" (1.0.2) by ys24ys
+  44 "[NMRiH] Grenade Effects" (1.0) by Mr.Halt
+  45 "Resize Players yomox9 customized v1a2" (1.5.1) by 11530 yomox9
+  46 "[NMRiH] Weapon Menu" (1.1.0) by Marcus
+  47 "[NMRiH] Full Infinite Ammo" (1.3.4-20140215) by Leonardo
+  48 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  49 "SM SKINCHOOSER HL2DM" (2.3) by Andi67
+  50 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  51 "DISCO!!!" (1.0.0) by MitchDizzle_
+  52 "SM File/Folder Downloader and Precacher" (1.4) by SWAT_88
+  53 "Weather effect Customized by yomox9. forTestVersion" (1.3) by FrozDark (HLModders.ru LLC)
+  54 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv01" (1.2) by Popoklopsi. Customized yomox9
+  55 "Admin Smite" (2.1) by Hipster
+  56 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv03" (1.2) by Popoklopsi. Customized yomox9
+  57 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv04" (1.2) by Popoklopsi. Customized yomox9
+  58 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv05" (1.2) by Popoklopsi. Customized yomox9
+  59 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv06" (1.2) by Popoklopsi. Customized yomox9
+  60 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv10" (1.2) by Popoklopsi. Customized yomox9
+  61 "Custom Votes" (0.5.6) by chundo
+  62 "GameVoting.smx"
+  63 "map-decals_y9v1.smx" (1.1) by Berni, Stingbyte
+  64 "[NMRiH] Full Infinite Ammo. add JAE-700.fix mac10.NoChainsaw" (1.3.4-20140215) by Leonardo. Modifier yomox9
+  65 "[NMRiH] Team Kill Punishment" (1.3.1-20140310) by Leonardo
+  66 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  67 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  68 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  69 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  70 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  71 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  72 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  73 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  74 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  75 "No Fall Damage" (0.1) by Mr Halt (a.k.a. 할짓없는놈, FineDrum)
+  76 "Say Sounds (including Hybrid Edition)_yomox9forTest" (4.0.8) by Hell Phoenix|Naris|FernFerret|Uberman|psychonic|edgecom|woody|Miraculix|gH0sTy
+  77 "Multilingual Objective Beta" (1.40) by Tast - SDC
+  78 "SM SKINCHOOSER HL2DM Test" (2.3) by Andi67
+  79 "[NMRiH] Weapon Menu" (1.1.0) by Marcus
+  80 "Maps and Prefix Maps Configs" (1.2) by graczu

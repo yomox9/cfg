@@ -1,0 +1,378 @@
+-----------------------------------------------------------------
+common footer有りでcln
+-----------------------------------------------------------------
+CHANGE LEVEL: nms_cinema_v1
+L 10/03/2015 - 04:05:51: [SM] Changed map to "nms_cinema_v1"
+SoundEmitter:  removing map sound overrides [630 to remove, 0 to restore]
+L 10/03/2015 - 04:05:51: [META] Loaded 0 plugins (1 already loaded)
+---- Host_Changelevel ----
+L 10/03/2015 - 04:05:51: [META] Loaded 0 plugins (1 already loaded)
+L 10/03/2015 - 04:05:51: Log file closed.
+Server logging data to file logs\L1003102.log
+L 10/03/2015 - 04:05:51: Log file started (file "logs\L1003102.log") (game "c:\app\steamcmd\nmrihsrv\nmrih") (version "0")
+L 10/03/2015 - 04:05:51: Loading map "nms_cinema_v1"
+L 10/03/2015 - 04:05:51: server cvars start
+L 10/03/2015 - 04:05:51: "sm_weathereffect_version" = "1.3"
+L 10/03/2015 - 04:05:51: "sv_nmrih_weaponmenu_version" = "1.1.0"
+L 10/03/2015 - 04:05:51: "sm_thirdperson_version" = "1.5"
+L 10/03/2015 - 04:05:51: "sm_speclist_version" = "1.1.2c"
+L 10/03/2015 - 04:05:51: "sm_skinchooser_hl2dm_test_version" = "2.3"
+L 10/03/2015 - 04:05:51: "sm_skinchooser_hl2dm_version" = "2.3"
+L 10/03/2015 - 04:05:51: "goto_version" = "1.2"
+L 10/03/2015 - 04:05:51: "sm_downloader_version" = "1.4"
+L 10/03/2015 - 04:05:51: "swm_version" = "1.2"
+L 10/03/2015 - 04:05:51: "sm_show_health_version" = "1.0.2"
+L 10/03/2015 - 04:05:51: "sm_saysounds_hybrid_version" = "4.0.8"
+L 10/03/2015 - 04:05:51: "rtve_version" = "1.10.0"
+L 10/03/2015 - 04:05:51: "sm_resize_version" = "1.5.1"
+L 10/03/2015 - 04:05:51: "sm_radio_version" = "1.0.0.13"
+L 10/03/2015 - 04:05:51: "ne_version" = "1.10.0"
+L 10/03/2015 - 04:05:51: "sm_nmrih_ibn_version" = "1.0.3"
+L 10/03/2015 - 04:05:51: "nmrih_greneffect_version" = "1.0"
+L 10/03/2015 - 04:05:51: "sm_nmrihstats_version" = "0.5"
+L 10/03/2015 - 04:05:51: "nmp_tkp_leo_suck" = "0"
+L 10/03/2015 - 04:05:51: "nmp_tkp_version" = "1.3.1-20140310"
+L 10/03/2015 - 04:05:51: "nmp_fia_noinfect" = "0"
+L 10/03/2015 - 04:05:51: "nmp_fia_stamina" = "130"
+L 10/03/2015 - 04:05:51: "nmp_fia_no_reload" = "0"
+L 10/03/2015 - 04:05:51: "nmp_fia_for_all" = "1"
+L 10/03/2015 - 04:05:51: "nmp_fia_version" = "1.3.4-20140215"
+L 10/03/2015 - 04:05:51: "nmp_dn_version" = "1.1.1-20140202"
+L 10/03/2015 - 04:05:51: "mce_version" = "1.10.2"
+L 10/03/2015 - 04:05:51: "md_version" = "1.1"
+L 10/03/2015 - 04:05:51: "sm_hgr_rope_enable" = "1"
+L 10/03/2015 - 04:05:51: "sm_hgr_grab_enable" = "1"
+L 10/03/2015 - 04:05:51: "sm_hgr_hook_enable" = "1"
+L 10/03/2015 - 04:05:51: "sm_hgr_version" = "1.1.4"
+L 10/03/2015 - 04:05:51: "sm_gamevoting_version" = "1.7"
+L 10/03/2015 - 04:05:51: "sm_disco_version" = "1.0.0"
+L 10/03/2015 - 04:05:51: "sm_cvote_version" = "0.5.6"
+L 10/03/2015 - 04:05:51: "crontab_version" = "1.1"
+L 10/03/2015 - 04:05:51: "countrynick_version" = "1.1.1"
+L 10/03/2015 - 04:05:51: "sv_autojoingame_version" = "1.0.0"
+L 10/03/2015 - 04:05:51: "sm_allchat_version" = "1.1.1"
+L 10/03/2015 - 04:05:51: "sm_adminsmite_version" = "2.1"
+L 10/03/2015 - 04:05:51: "sm_nextmap" = "nms_cinema_v1"
+L 10/03/2015 - 04:05:51: "sourcemod_version" = "1.7.3-dev+5258"
+L 10/03/2015 - 04:05:51: "metamod_version" = "1.10.6V"
+L 10/03/2015 - 04:05:51: "mp_teamplay" = "0"
+L 10/03/2015 - 04:05:51: "mp_falldamage" = "0"
+L 10/03/2015 - 04:05:51: "mp_weaponstay" = "0"
+L 10/03/2015 - 04:05:51: "mp_forcerespawn" = "1"
+L 10/03/2015 - 04:05:51: "mp_footsteps" = "1"
+L 10/03/2015 - 04:05:51: "mp_flashlight" = "0"
+L 10/03/2015 - 04:05:51: "mp_autocrosshair" = "1"
+L 10/03/2015 - 04:05:51: "decalfrequency" = "10"
+L 10/03/2015 - 04:05:51: "mp_teamlist" = "hgrunt;scientist"
+L 10/03/2015 - 04:05:51: "mp_allowNPCs" = "1"
+L 10/03/2015 - 04:05:51: "mp_friendlyfire" = "0"
+L 10/03/2015 - 04:05:51: "mp_fadetoblack" = "0"
+L 10/03/2015 - 04:05:51: "sv_gravity" = "800"
+L 10/03/2015 - 04:05:51: "sv_stopspeed" = "100"
+L 10/03/2015 - 04:05:51: "sv_noclipaccelerate" = "5"
+L 10/03/2015 - 04:05:51: "sv_noclipspeed" = "5"
+L 10/03/2015 - 04:05:51: "sv_specaccelerate" = "5"
+L 10/03/2015 - 04:05:51: "sv_specspeed" = "3"
+L 10/03/2015 - 04:05:51: "sv_specnoclip" = "1"
+L 10/03/2015 - 04:05:51: "sv_maxspeed" = "320"
+L 10/03/2015 - 04:05:51: "sv_accelerate" = "10"
+L 10/03/2015 - 04:05:51: "sv_airaccelerate" = "10"
+L 10/03/2015 - 04:05:51: "sv_wateraccelerate" = "10"
+L 10/03/2015 - 04:05:51: "sv_waterfriction" = "1"
+L 10/03/2015 - 04:05:51: "sv_footsteps" = "1"
+L 10/03/2015 - 04:05:51: "sv_rollspeed" = "200"
+L 10/03/2015 - 04:05:51: "sv_rollangle" = "0"
+L 10/03/2015 - 04:05:51: "sv_friction" = "4"
+L 10/03/2015 - 04:05:51: "sv_bounce" = "0"
+L 10/03/2015 - 04:05:51: "sv_stepsize" = "18"
+L 10/03/2015 - 04:05:51: "r_VehicleViewDampen" = "1"
+L 10/03/2015 - 04:05:51: "r_JeepViewDampenFreq" = "7.0"
+L 10/03/2015 - 04:05:51: "r_JeepViewDampenDamp" = "1.0"
+L 10/03/2015 - 04:05:51: "r_JeepViewZHeight" = "10.0"
+L 10/03/2015 - 04:05:51: "r_AirboatViewDampenFreq" = "7.0"
+L 10/03/2015 - 04:05:51: "r_AirboatViewDampenDamp" = "1.0"
+L 10/03/2015 - 04:05:51: "r_AirboatViewZHeight" = "0.0"
+L 10/03/2015 - 04:05:51: "mp_timelimit" = "1"
+L 10/03/2015 - 04:05:51: "mp_fraglimit" = "0"
+L 10/03/2015 - 04:05:51: "nextlevel" = ""
+L 10/03/2015 - 04:05:51: "sv_maxusrcmdprocessticks" = "24"
+L 10/03/2015 - 04:05:51: "mp_respawnwavetime" = "10.0"
+L 10/03/2015 - 04:05:51: "mp_tournament" = "0"
+L 10/03/2015 - 04:05:51: "tf_arena_preround_time" = "10"
+L 10/03/2015 - 04:05:51: "tf_arena_round_time" = "0"
+L 10/03/2015 - 04:05:51: "tf_arena_max_streak" = "3"
+L 10/03/2015 - 04:05:51: "tf_arena_use_queue" = "1"
+L 10/03/2015 - 04:05:51: "mp_maxrounds" = "1"
+L 10/03/2015 - 04:05:51: "mp_winlimit" = "1"
+L 10/03/2015 - 04:05:51: "mp_disable_respawn_times" = "0"
+L 10/03/2015 - 04:05:51: "mp_stalemate_meleeonly" = "0"
+L 10/03/2015 - 04:05:51: "mp_forceautoteam" = "0"
+L 10/03/2015 - 04:05:51: "mp_autoteambalance" = "1"
+L 10/03/2015 - 04:05:51: "mp_stalemate_enable" = "0"
+L 10/03/2015 - 04:05:51: "mp_match_end_at_timelimit" = "0"
+L 10/03/2015 - 04:05:51: "mp_holiday_nogifts" = "0"
+L 10/03/2015 - 04:05:51: "mp_scrambleteams_auto" = "1"
+L 10/03/2015 - 04:05:51: "mp_scrambleteams_auto_windifference" = "2"
+L 10/03/2015 - 04:05:51: "sv_alltalk" = "1"
+L 10/03/2015 - 04:05:51: "sv_resupplytime" = "60"
+L 10/03/2015 - 04:05:51: "mp_limitteams" = "2"
+L 10/03/2015 - 04:05:51: "sv_cheats" = "0"
+L 10/03/2015 - 04:05:51: "sv_pausable" = "0"
+L 10/03/2015 - 04:05:51: "sv_contact" = "yomox9@gmail.com"
+L 10/03/2015 - 04:05:51: "sv_voiceenable" = "1"
+L 10/03/2015 - 04:05:51: "tv_enable" = "0"
+L 10/03/2015 - 04:05:51: "sv_steamgroup" = ""
+L 10/03/2015 - 04:05:51: "sv_password" = "www"
+L 10/03/2015 - 04:05:51: "sv_tags" = "!models,AllTalk,CustomMap,infinite_ammo,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:05:51: "tv_relaypassword" = ""
+L 10/03/2015 - 04:05:51: "tv_password" = ""
+L 10/03/2015 - 04:05:51: "deathmatch" = "1"
+L 10/03/2015 - 04:05:51: "coop" = "0"
+L 10/03/2015 - 04:05:51: server cvars end
+SOLID_VPHYSICS static prop with no vphysics model! (models/props/street/cinemasign_1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props/street/grocery_roofsign_1.mdl)
+L 10/03/2015 - 04:05:51: Started map "nms_cinema_v1" (CRC "1fdaa9d942d5691225b7e2134de29811")
+L 10/03/2015 - 04:05:51: -------- Mapchange to nms_cinema_v1 --------
+L 10/03/2015 - 04:05:51: Error log file session closed.
+L 10/03/2015 - 04:05:52: [cronjobs_AliveMonitoringY9v1_srv03.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv03.txt"
+' successfully added!
+L 10/03/2015 - 04:05:52: [cronjobs_AliveMonitoringY9v1_srv04.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv04.txt"
+' successfully added!
+L 10/03/2015 - 04:05:52: [cronjobs_AliveMonitoringY9v1_srv05.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv05.txt"
+' successfully added!
+L 10/03/2015 - 04:05:52: [cronjobs_AliveMonitoringY9v1_srv06.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv06.txt"
+' successfully added!
+L 10/03/2015 - 04:05:52: [cronjobs_AliveMonitoringY9v1_srv10.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv10.txt"
+' successfully added!
+L 10/03/2015 - 04:05:52: [saysounds-test.smx] [Say Sounds] No specific game detected
+[NMRiH] Weapon Menu: Loaded 46 weapons
+'skill1.cfg' not present; not executing.
+** Duplicate Hammer Node IDs: Trying to precache breakable prop, but has no model name
+prop_door_breakable at (0.000, 0.000, 0.000) has no model name!
+nmrih_safezone_supply_piece at (0.000, 0.000, 0.000) has no model name!
+nmrih_health_station at (0.000, 0.000, 0.000) has no model name!
+item_inventory_box at (0.000, 0.000, 0.000) has no model name!
+item_glowstick at (0.000, 0.000, 0.000) has no model name!
+SV_StartSound: ambient/fire/fire_small_loop2.wav not precached (0)
+prop_door_rotating has Door model (models/props/misc/shop_door02.mdl) with no door_options! Verify that SKIN is valid, and has a corresponding options block in the model QC file
+Set motd from file 'cfg/motd_srv01.txt'
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+L 10/03/2015 - 04:05:53: [radio.smx] Loading the radio stations from "cfg/sourcemod/radiostations.ini"
+L 10/03/2015 - 04:05:53: [radio.smx] Finishing parsing "cfg/sourcemod/radiostations.ini" - Found 25 radio stations
+L 10/03/2015 - 04:05:53: [customvotes.smx] Directory does not exist. (addons\sourcemod\configs\customvotes).
+L 10/03/2015 - 04:05:53: [SM] Native "ReadFileLine" reported: invalid handle 0 (error: 4)
+L 10/03/2015 - 04:05:53: [SM] Displaying call stack trace for plugin "sm_skinchooser_hl2dm_test.smx":
+L 10/03/2015 - 04:05:53: [SM]   [0]  Line 1260, C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\sm_skinchooser_hl2dm_test.sp::LoadModels()
+L 10/03/2015 - 04:05:53: [SM]   [1]  Line 131, C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\sm_skinchooser_hl2dm_test.sp::OnMapStart()
+L 10/03/2015 - 04:05:53: server_cvar: "sv_tags" "AllTalk,CustomMap,DeathNotifications,rank,top10"
+L 10/03/2015 - 04:05:53: server_cvar: "sv_tags" "AllTalk,CustomMap,DeathNotifications,rank,top10"
+L 10/03/2015 - 04:05:53: server_cvar: "mp_timelimit" "05"
+L 10/03/2015 - 04:05:53: server_cvar: "mp_winlimit" "0"
+L 10/03/2015 - 04:05:53: server_cvar: "mp_maxrounds" "0"
+Server logging enabled.
+L 10/03/2015 - 04:05:53: Log file closed.
+Server logging data to file logs\L1003103.log
+L 10/03/2015 - 04:05:53: Log file started (file "logs\L1003103.log") (game "c:\app\steamcmd\nmrihsrv\nmrih") (version "0")
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:3489776]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:39583812]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:147820359]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:144202305]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:53851474]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:102626478]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:145125196]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:106769843]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:119394271]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:162553651]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:101719274]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:158804704]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:209668015]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Banid: "<><[U:1:183658455]><>" was banned "permanently" by "Console"
+L 10/03/2015 - 04:05:53: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "91.221.48.17")
+L 10/03/2015 - 04:05:53: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "121.108.126.162")
+L 10/03/2015 - 04:05:53: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "46.172.188.8")
+L 10/03/2015 - 04:05:54: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "186.228.164.229")
+L 10/03/2015 - 04:05:54: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "66.102.6.216")
+L 10/03/2015 - 04:05:54: Addip: "<><><>" was banned by IP "permanently" by "Console" (IP "42.124.22.118")
+Writing cfg/banned_user.cfg.
+Couldn't open cfg/banned_user.cfg
+Writing cfg/banned_ip.cfg.
+[SM] Changed cvar "sv_gravity" to "800".
+L 10/03/2015 - 04:05:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_gravity") (value "800")
+[SM] Changed cvar "md_decal_dista" to "10".
+L 10/03/2015 - 04:05:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "md_decal_dista") (value "10")
+[SM] Changed cvar "md_decal_printpos" to "0".
+L 10/03/2015 - 04:05:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "md_decal_printpos") (value "0")
+[SM] All plugins have been unloaded.
+[SM] There was no loading lock in effect.
+[SM] Loaded plugin admin-flatfile.smx successfully.
+[SM] Loaded plugin adminhelp.smx successfully.
+[SM] Loaded plugin adminmenu.smx successfully.
+[SM] Loaded plugin antiflood.smx successfully.
+[SM] Loaded plugin basebans.smx successfully.
+[SM] Loaded plugin basechat.smx successfully.
+[SM] Loaded plugin basecomm.smx successfully.
+[SM] Loaded plugin basecommands.smx successfully.
+[SM] Loaded plugin basetriggers.smx successfully.
+[SM] Loaded plugin basevotes.smx successfully.
+[SM] Loaded plugin clientprefs.smx successfully.
+[SM] Loaded plugin funcommands.smx successfully.
+[SM] Loaded plugin funvotes.smx successfully.
+[SM] Loaded plugin nextmap.smx successfully.
+[SM] Loaded plugin playercommands.smx successfully.
+[SM] Loaded plugin reservedslots.smx successfully.
+[SM] Loaded plugin sounds.smx successfully.
+[SM] Loaded plugin autojoingame.smx successfully.
+[SM] Loaded plugin nmrih_infection_bleeding_notification.smx successfully.
+[SM] Loaded plugin nmp_deaths.smx successfully.
+L 10/03/2015 - 04:05:54: [cronjobs.smx] CronJob 'exec cronjobs_message.txt
+' successfully added!
+L 10/03/2015 - 04:05:54: [cronjobs.smx] CronJob 'server_quit_if_empty
+' successfully added!
+L 10/03/2015 - 04:05:54: [cronjobs.smx] CronJob 'server_cln_if_empty
+' successfully added!
+[SM] Loaded plugin cronjobs.smx successfully.
+[SM] Loaded plugin mapchooser_extended.smx successfully.
+[SM] Loaded plugin nominations_extended.smx successfully.
+[SM] Loaded plugin rockthevote_extended.smx successfully.
+[SM] Plugin gv.smx failed to load: Unable to open file.
+[SM] Loaded plugin nmp_tkp.smx successfully.
+[SM] Loaded plugin grenadetrails140_clientpref.smx successfully.
+L 10/03/2015 - 04:05:54: [simplewelcomemsg_y9v1.smx] Set the maximum number of lines of.
+[SM] Loaded plugin simplewelcomemsg_y9v1.smx successfully.
+[SM] Loaded plugin allchat.smx successfully.
+[SM] Loaded plugin server_quit_if_empty.smx successfully.
+[SM] Loaded plugin server_cln_if_empty_y9v1.smx successfully.
+[SM] Loaded plugin thirdperson_y9v1.smx successfully.
+[SM] Loaded plugin countrynick_y9v1.smx successfully.
+[SM] Loaded plugin sm_goto.smx successfully.
+L 10/03/2015 - 04:05:54: [radio.smx] Loading the radio stations from "cfg/sourcemod/radiostations.ini"
+L 10/03/2015 - 04:05:54: [radio.smx] Finishing parsing "cfg/sourcemod/radiostations.ini" - Found 25 radio stations
+[SM] Loaded plugin radio.smx successfully.
+[SM] Loaded plugin showhealth_y9v1.smx successfully.
+[SM] Loaded plugin SDC_Keypad_y9v1.smx successfully.
+[SM] Loaded plugin SDC_Tchinese_Obj_y9v1.smx successfully.
+----------------|         [HGR] Loading        |---------------
+----------------|         [HGR] Loaded         |---------------
+[SM] Loaded plugin hookgrabrope.smx successfully.
+[SM] Loaded plugin setspectate.smx successfully.
+[SM] Loaded plugin speclist.smx successfully.
+[SM] Loaded plugin weather_effect.smx successfully.
+L 10/03/2015 - 04:05:54: [saysounds.smx] [Say Sounds] No specific game detected
+[SM] Loaded plugin saysounds.smx successfully.
+[SM] Loaded plugin google_translate.smx successfully.
+[SM] Loaded plugin nmrih_grenade_effects.smx successfully.
+[SM] Loaded plugin ResizePlayers_y9v1.smx successfully.
+[SM] Loading is now locked; no plugins will be loaded or re-loaded.
+L 10/03/2015 - 04:05:54: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:05:54: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:05:54: server_cvar: "mp_timelimit" "1"
+L 10/03/2015 - 04:05:54: server_cvar: "mp_winlimit" "1"
+L 10/03/2015 - 04:05:54: server_cvar: "mp_maxrounds" "1"
+[SM] The loading lock is no longer in effect.
+[SM] Plugin crobjobs.smx is not loaded.
+[NMRiH] Weapon Menu: Loaded 46 weapons
+[SM] Loaded plugin weapon_menu_y9nolimitV1_noExplosion.smx successfully.
+[SM] Loaded plugin nmp_fia_y9v1.smx successfully.
+[SM] Loaded plugin nmrihstatsMySQL01.smx successfully.
+[SM] Loaded plugin sm_skinchooser_hl2dm.smx successfully.
+[SM] Loaded plugin nmrih_item_shop_v3_y9v4MySQL01.smx successfully.
+[SM] Loaded plugin disco.smx successfully.
+[SM] Loaded plugin sm_downloader.smx successfully.
+[SM] Loaded plugin weather_effect_forTest.smx successfully.
+L 10/03/2015 - 04:05:55: [cronjobs_AliveMonitoringY9v1_srv01.smx] CronJob '"echo.>nmrih\logs\AM_NMRiH_SRCDS_srv01.txt"
+' successfully added!
+[SM] Loaded plugin cronjobs_AliveMonitoringY9v1_srv01.smx successfully.
+[SM] Plugin map_config.smx is not loaded.
+[SM] Loaded plugin map_config.smx successfully.
+[SM] Pending Vote
+hostname: [JP][yomox9_srv01][Test]
+version : 1.0.9.4/24 0 insecure
+udp/ip  : 192.168.111.41:28015  (public ip: 157.192.50.219)
+steamid : [A:1:1736019969:5933] (90097476324397057)
+map     : nms_cinema_v1 at: 0 x, 0 y, 0 z
+players : 0 humans, 0 bots (8 max)
+edicts  : 189 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+Unknown command "sv_vote_kick_ban_duration"
+[SM] Changed cvar "sv_zombie_shambler_crawler_chance" to "0.15".
+L 10/03/2015 - 04:05:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_zombie_shambler_crawler_chance") (value "0.15")
+L 10/03/2015 - 04:05:55: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,infinite_ammo,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:05:55: server_cvar: "sv_tags" "!models,AllTalk,CustomMap,infinite_ammo,voteban,votekick,votemap,yomox9"
+L 10/03/2015 - 04:05:55: server_cvar: "nmp_fia_no_reload" "1"
+[SM] Plugin Maps and Prefix Maps Configs unloaded successfully.
+[SM] Loaded plugin map_config.smx successfully.
+[SM] Listing 55 plugins:
+  01 "Admin File Reader" (1.7.3-dev+5258) by AlliedModders LLC
+  02 "Admin Help" (1.7.3-dev+5258) by AlliedModders LLC
+  03 "Admin Menu" (1.7.3-dev+5258) by AlliedModders LLC
+  04 "Anti-Flood" (1.7.3-dev+5258) by AlliedModders LLC
+  05 "Basic Ban Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  06 "Basic Chat" (1.7.3-dev+5258) by AlliedModders LLC
+  07 "Basic Comm Control" (1.7.3-dev+5258) by AlliedModders LLC
+  08 "Basic Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  09 "Basic Info Triggers" (1.7.3-dev+5258) by AlliedModders LLC
+  10 "Basic Votes" (1.7.3-dev+5258) by AlliedModders LLC
+  11 "Client Preferences" (1.7.3-dev+5258) by AlliedModders LLC
+  12 "Fun Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  13 "Fun Votes" (1.7.3-dev+5258) by AlliedModders LLC
+  14 "Nextmap" (1.7.3-dev+5258) by AlliedModders LLC
+  15 "Player Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  16 "Reserved Slots" (1.7.3-dev+5258) by AlliedModders LLC
+  17 "Sound Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  18 "Auto-JoinGame" (1.0.0) by Marcus
+  19 "[NMRiH]Infection&Bleeding Notification" (1.0.3) by ys24ys (a.k.a. 흑룡), Mr.Halt (a.k.a. 할짓없는놈, FineDrum)
+  20 "[NMRiH] Death Notifications" (1.1.1-20140202) by Leonardo
+  21 "Cronjobs" (1.2) by Popoklopsi
+  22 "MapChooser Extended" (1.10.2) by Powerlord, Zuko, and AlliedModders LLC
+  23 "Map Nominations Extended" (1.10.0) by Powerlord and AlliedModders LLC
+  24 "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
+  25 "[NMRiH] Team Kill Punishment" (1.3.1-20140310) by Leonardo
+  26 "Grenade Trails (clientpref)" (1.4) by Bacardi, Mr.Halt (a.k.a. 할짓없는놈, FineDrum), ys24ys (a.k.a. 흑룡)
+  27 "Simple Welcome Message" (1.2) by Zuko
+  28 "AllChat" (1.1.1) by Frenzzy
+  29 "server quit if empty" (1.0.0) by kimoto
+  30 "server cln if empty" (1.0.0) by kimoto / Modified yomox9
+  31 "Thirdperson yomox9 customized v1" (1.5) by shavit Mr.halt yomox9
+  32 "Country Nick Plugin modified yomox9" (1.1.1) by Antoine LIBERT aka AeN0 / Modified yomox9
+  33 "Player-Teleport by Dr. HyperKiLLeR" (1.2.0.0) by Dr. HyperKiLLeR
+  34 "SourceMod Radio" (1.0.0.13) by dubbeh
+  35 "Show Health" (1.0.2) by exvel
+  36 "Keypad Controller" (1.1) by Tast - SDC. Modified by yomox9
+  37 "Chinese Objective" (1.2) by Tast - SDC. modified by yomox9
+  38 "Hook Grab Rope" (1.1.4) by Sheepdude, SumGuy14
+  39 "Set Spectate" (1.0.0) by 데자뷰
+  40 "Spectator List" (1.1.2c) by GoD-Tony
+  41 "Weather effect" (1.3) by FrozDark (HLModders.ru LLC)
+  42 "Say Sounds (including Hybrid Edition)" (4.0.8) by Hell Phoenix|Naris|FernFerret|Uberman|psychonic|edgecom|woody|Miraculix|gH0sTy
+  43 "Google Translate Chating(구글번역기)" (1.0.2) by ys24ys
+  44 "[NMRiH] Grenade Effects" (1.0) by Mr.Halt
+  45 "Resize Players yomox9 customized v1a2" (1.5.1) by 11530 yomox9
+  46 "[NMRiH] Weapon Menu" (1.1.0) by Marcus
+  47 "[NMRiH] Full Infinite Ammo" (1.3.4-20140215) by Leonardo
+  48 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  49 "SM SKINCHOOSER HL2DM" (2.3) by Andi67
+  50 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  51 "DISCO!!!" (1.0.0) by MitchDizzle_
+  52 "SM File/Folder Downloader and Precacher" (1.4) by SWAT_88
+  53 "Weather effect Customized by yomox9. forTestVersion" (1.3) by FrozDark (HLModders.ru LLC)
+  54 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv01" (1.2) by Popoklopsi. Customized yomox9
+  55 "Maps and Prefix Maps Configs" (1.2) by graczu
+"sv_password" = "www" ( def. "" )
+ notify
+ - Server password for entry into multiplayer games
+hostname: [JP][yomox9_srv01][Test]
+version : 1.0.9.4/24 0 insecure
+udp/ip  : 192.168.111.41:28015  (public ip: 157.192.50.219)
+steamid : [A:1:1736019969:5933] (90097476324397057)
+map     : nms_cinema_v1 at: 0 x, 0 y, 0 z
+players : 0 humans, 0 bots (8 max)
+edicts  : 189 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#Chat_Admin Console: thetime
+L 10/03/2015 - 04:05:55: "Console<0><Console><Console>" say "thetime"
+L 10/03/2015 - 04:05:55: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 10/03/2015 - 04:05:55: [SM] Displaying call stack trace for plugin "basetriggers.smx":
+L 10/03/2015 - 04:05:55: [SM]   [0]  Line 269, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\basetriggers.sp::OnClientSayCommand_Post()
+L 10/03/2015 - 04:05:55: server_cvar: "nmp_fia_no_reload" "0"
+L 10/03/2015 - 04:05:55: [mapchooser_extended.smx] No official map list found for nmrih. Consider submitting one!
+[GT]server connected: ys24ys.iptime.org

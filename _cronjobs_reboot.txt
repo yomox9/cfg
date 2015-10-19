@@ -1,0 +1,4 @@
+sm_say Server reboot start.
+sm_say サーバー再起動開始(これは自動メッセージです)
+sm_csay Server reboot start.
+exit

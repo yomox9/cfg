@@ -1,0 +1,3 @@
+sm_say This server will reboot for maintenance at 4:00(JST. JST=UTC+9) (This is automated message).
+sm_say このサーバーはメンテナンスのため 4:00 に再起動します(これは自動メッセージです)
+sm_csay This server will reboot

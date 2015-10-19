@@ -1,0 +1,3 @@
+sm_say 2015/08/22 Add 3 map : nmo_lobby_y9v2rv3 / ReAdd skin : Donald(McDonald)
+sm_say 2015/08/25 Add map : nmo_hex_v2
+sm_say 2015/09/07 Add map : nmo_condemned_test

@@ -1,0 +1,157 @@
+-----------------------------------------------------------------
+_common無しfotter有り
+-----------------------------------------------------------------
+Unknown command "cln"
+Using map cycle file 'mapcycle_srv01_test.txt'.  ('cfg/mapcycle_srv01_test.txt' was not found.)
+CHANGE LEVEL: nms_cinema_v1
+L 10/03/2015 - 04:01:59: [SM] Changed map to "nms_cinema_v1"
+SoundEmitter:  removing map sound overrides [630 to remove, 0 to restore]
+---- Host_Changelevel ----
+SOLID_VPHYSICS static prop with no vphysics model! (models/props/street/cinemasign_1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props/street/grocery_roofsign_1.mdl)
+L 10/03/2015 - 04:01:59: -------- Mapchange to nms_cinema_v1 --------
+L 10/03/2015 - 04:01:59: Error log file session closed.
+'skill1.cfg' not present; not executing.
+** Duplicate Hammer Node IDs: Trying to precache breakable prop, but has no model name
+prop_door_breakable at (0.000, 0.000, 0.000) has no model name!
+nmrih_safezone_supply_piece at (0.000, 0.000, 0.000) has no model name!
+nmrih_health_station at (0.000, 0.000, 0.000) has no model name!
+item_inventory_box at (0.000, 0.000, 0.000) has no model name!
+item_glowstick at (0.000, 0.000, 0.000) has no model name!
+SV_StartSound: ambient/fire/fire_small_loop2.wav not precached (0)
+prop_door_rotating has Door model (models/props/misc/shop_door02.mdl) with no door_options! Verify that SKIN is valid, and has a corresponding options block in the model QC file
+Set motd from file 'cfg/motd_srv01.txt'
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+L 10/03/2015 - 04:02:00: [customvotes.smx] Directory does not exist. (addons\sourcemod\configs\customvotes).
+L 10/03/2015 - 04:02:00: [radio.smx] Loading the radio stations from "cfg/sourcemod/radiostations.ini"
+L 10/03/2015 - 04:02:00: [radio.smx] Finishing parsing "cfg/sourcemod/radiostations.ini" - Found 25 radio stations
+L 10/03/2015 - 04:02:00: [SM] Native "ReadFileLine" reported: invalid handle 0 (error: 4)
+L 10/03/2015 - 04:02:00: [SM] Displaying call stack trace for plugin "sm_skinchooser_hl2dm_test.smx":
+L 10/03/2015 - 04:02:00: [SM]   [0]  Line 1260, C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\sm_skinchooser_hl2dm_test.sp::LoadModels()
+L 10/03/2015 - 04:02:00: [SM]   [1]  Line 131, C:\app\steamcmd\nmrihsrv\nmrih\addons\sourcemod\scripting\sm_skinchooser_hl2dm_test.sp::OnMapStart()
+[SM] There was no loading lock in effect.
+[SM] Plugin crobjobs.smx is not loaded.
+[SM] Plugin weapon_menu_y9nolimitV1_noExplosion.smx is already loaded.
+[SM] Plugin nmp_fia_y9v1.smx is already loaded.
+[SM] Plugin nmrihstatsMySQL01.smx is already loaded.
+[SM] Plugin sm_skinchooser_hl2dm.smx is already loaded.
+[SM] Plugin nmrih_item_shop_v3_y9v4MySQL01.smx is already loaded.
+[SM] Plugin disco.smx is already loaded.
+[SM] Plugin sm_downloader.smx is already loaded.
+[SM] Plugin weather_effect_forTest.smx is already loaded.
+[SM] Plugin cronjobs_AliveMonitoringY9v1_srv01.smx is already loaded.
+[SM] Plugin Maps and Prefix Maps Configs unloaded successfully.
+[SM] Loaded plugin map_config.smx successfully.
+[SM] Pending Vote
+hostname: [JP][yomox9_srv01][Test]
+version : 1.0.9.4/24 0 insecure
+udp/ip  : 192.168.111.41:28015  (public ip: 157.192.50.219)
+steamid : [A:1:1736019969:5933] (90097476324397057)
+map     : nms_cinema_v1 at: 0 x, 0 y, 0 z
+players : 0 humans, 0 bots (8 max)
+edicts  : 186 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+Unknown command "sv_vote_kick_ban_duration"
+[SM] Changed cvar "sv_zombie_shambler_crawler_chance" to "0.15".
+L 10/03/2015 - 04:02:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_zombie_shambler_crawler_chance") (value "0.15")
+[SM] Plugin Maps and Prefix Maps Configs unloaded successfully.
+[SM] Loaded plugin map_config.smx successfully.
+[SM] Listing 80 plugins:
+  01 "Admin File Reader" (1.7.3-dev+5258) by AlliedModders LLC
+  02 "Admin Help" (1.7.3-dev+5258) by AlliedModders LLC
+  03 "Admin Menu" (1.7.3-dev+5258) by AlliedModders LLC
+  04 "Admin Smite" (2.1) by Hipster
+  05 "AllChat" (1.1.1) by Frenzzy
+  06 "Anti-Flood" (1.7.3-dev+5258) by AlliedModders LLC
+  07 "Auto-JoinGame" (1.0.0) by Marcus
+  08 "Basic Ban Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  09 "Basic Chat" (1.7.3-dev+5258) by AlliedModders LLC
+  10 "Basic Comm Control" (1.7.3-dev+5258) by AlliedModders LLC
+  11 "Basic Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  12 "Basic Info Triggers" (1.7.3-dev+5258) by AlliedModders LLC
+  13 "Basic Votes" (1.7.3-dev+5258) by AlliedModders LLC
+  14 "Client Preferences" (1.7.3-dev+5258) by AlliedModders LLC
+  15 "Country Nick Plugin modified yomox9" (1.1.1) by Antoine LIBERT aka AeN0 / Modified yomox9
+  16 "Cronjobs" (1.2) by Popoklopsi
+  17 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv01" (1.2) by Popoklopsi. Customized yomox9
+  18 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv03" (1.2) by Popoklopsi. Customized yomox9
+  19 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv04" (1.2) by Popoklopsi. Customized yomox9
+  20 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv05" (1.2) by Popoklopsi. Customized yomox9
+  21 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv06" (1.2) by Popoklopsi. Customized yomox9
+  22 "Cronjobs by yomox9 for AliveMonitoring y9v1 forSrv10" (1.2) by Popoklopsi. Customized yomox9
+  23 "Custom Votes" (0.5.6) by chundo
+  24 "DISCO!!!" (1.0.0) by MitchDizzle_
+  25 "Fun Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  26 "Fun Votes" (1.7.3-dev+5258) by AlliedModders LLC
+  27 "GameVoting.smx"
+  28 "Google Translate Chating(구글번역기)" (1.0.2) by ys24ys
+  29 "Grenade Trails (clientpref)" (1.4) by Bacardi, Mr.Halt (a.k.a. 할짓없는놈, FineDrum), ys24ys (a.k.a. 흑룡)
+  30 "Hook Grab Rope" (1.1.4) by Sheepdude, SumGuy14
+  31 "map-decals_y9v1.smx" (1.1) by Berni, Stingbyte
+  32 "MapChooser Extended" (1.10.2) by Powerlord, Zuko, and AlliedModders LLC
+  33 "Nextmap" (1.7.3-dev+5258) by AlliedModders LLC
+  34 "[NMRiH] Death Notifications" (1.1.1-20140202) by Leonardo
+  35 "[NMRiH] Full Infinite Ammo" (1.3.4-20140215) by Leonardo
+  36 "[NMRiH] Full Infinite Ammo. add JAE-700.fix mac10.NoChainsaw" (1.3.4-20140215) by Leonardo. Modifier yomox9
+  37 "[NMRiH] Team Kill Punishment" (1.3.1-20140310) by Leonardo
+  38 "[NMRiH] Team Kill Punishment" (1.3.1-20140310) by Leonardo
+  39 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  40 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  41 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  42 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  43 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  44 "Simple NMRiH Stats forMySQL" (0.5) by Stevo.TVR Modifier yomox9
+  45 "[NMRiH] Grenade Effects" (1.0) by Mr.Halt
+  46 "[NMRiH]Infection&Bleeding Notification" (1.0.3) by ys24ys (a.k.a. 흑룡), Mr.Halt (a.k.a. 할짓없는놈, FineDrum)
+  47 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  48 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  49 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  50 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  51 "[NMRiH]Item Shop V3 customized y9v4" (2.0.0.8) by ys24ys & Mr.Halt.Modified yomox9
+  52 "No Fall Damage" (0.1) by Mr Halt (a.k.a. 할짓없는놈, FineDrum)
+  53 "Map Nominations Extended" (1.10.0) by Powerlord and AlliedModders LLC
+  54 "Player Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  55 "SourceMod Radio" (1.0.0.13) by dubbeh
+  56 "Reserved Slots" (1.7.3-dev+5258) by AlliedModders LLC
+  57 "Resize Players yomox9 customized v1a2" (1.5.1) by 11530 yomox9
+  58 "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
+  59 "Say Sounds (including Hybrid Edition)_yomox9forTest" (4.0.8) by Hell Phoenix|Naris|FernFerret|Uberman|psychonic|edgecom|woody|Miraculix|gH0sTy
+  60 "Say Sounds (including Hybrid Edition)" (4.0.8) by Hell Phoenix|Naris|FernFerret|Uberman|psychonic|edgecom|woody|Miraculix|gH0sTy
+  61 "Keypad Controller" (1.1) by Tast - SDC. Modified by yomox9
+  62 "Multilingual Objective Beta" (1.40) by Tast - SDC
+  63 "Chinese Objective" (1.2) by Tast - SDC. modified by yomox9
+  64 "server cln if empty" (1.0.0) by kimoto / Modified yomox9
+  65 "server quit if empty" (1.0.0) by kimoto
+  66 "Set Spectate" (1.0.0) by 데자뷰
+  67 "Show Health" (1.0.2) by exvel
+  68 "Simple Welcome Message" (1.2) by Zuko
+  69 "SM File/Folder Downloader and Precacher" (1.4) by SWAT_88
+  70 "Player-Teleport by Dr. HyperKiLLeR" (1.2.0.0) by Dr. HyperKiLLeR
+  71 "SM SKINCHOOSER HL2DM" (2.3) by Andi67
+  72 "SM SKINCHOOSER HL2DM Test" (2.3) by Andi67
+  73 "Sound Commands" (1.7.3-dev+5258) by AlliedModders LLC
+  74 "Spectator List" (1.1.2c) by GoD-Tony
+  75 "Thirdperson yomox9 customized v1" (1.5) by shavit Mr.halt yomox9
+  76 "[NMRiH] Weapon Menu" (1.1.0) by Marcus
+  77 "[NMRiH] Weapon Menu" (1.1.0) by Marcus
+  78 "Weather effect" (1.3) by FrozDark (HLModders.ru LLC)
+  79 "Weather effect Customized by yomox9. forTestVersion" (1.3) by FrozDark (HLModders.ru LLC)
+  80 "Maps and Prefix Maps Configs" (1.2) by graczu
+"sv_password" = "www" ( def. "" )
+ notify
+ - Server password for entry into multiplayer games
+hostname: [JP][yomox9_srv01][Test]
+version : 1.0.9.4/24 0 insecure
+udp/ip  : 192.168.111.41:28015  (public ip: 157.192.50.219)
+steamid : [A:1:1736019969:5933] (90097476324397057)
+map     : nms_cinema_v1 at: 0 x, 0 y, 0 z
+players : 0 humans, 0 bots (8 max)
+edicts  : 186 used of 2048 max
+# userid name                uniqueid            connected ping loss state  adr
+#Chat_Admin Console: thetime
+L 10/03/2015 - 04:02:01: [SM] Native "PrintToChat" reported: Client index 0 is invalid
+L 10/03/2015 - 04:02:01: [SM] Displaying call stack trace for plugin "basetriggers.smx":
+L 10/03/2015 - 04:02:01: [SM]   [0]  Line 269, D:\builds\build-sourcemod-msvc12\windows-1.7\build\plugins\basetriggers.sp::OnClientSayCommand_Post()
+ObjCode : OnStart
+ObjMess : 
+L 10/03/2015 - 04:02:01: [mapchooser_extended.smx] No official map list found for nmrih. Consider submitting one!

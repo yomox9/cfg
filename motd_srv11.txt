@@ -1,0 +1,54 @@
+Administrator=yomox9(japanese) email=yomox9@gmail.com
+--- Japanese only server-----------------------------
+--- you can use these command in chat. チャットで入力可能なコマンド -----------------------------
+motd(message of the day) このメッセージの表示 / currentmap 現在のマップ名 / nextmap 次のマップ名 / ff フレンドリー・ファイアー状態
+rank  全yomox9サーバー群の中で何位か表示 / top10
+Points calculation method. rankとtop10の得点計算方法
+Zombie kill: +1 / Headshot bonus: +1 / Death: -20 / Team kill: -500 (pluginのdefaultは-20) / Extraction: +50
+--- map -----------------------------
+nmo_boardwalk_v1
+nmo_broadway
+nmo_cabin
+nmo_chinatown
+nmo_cold_black_b001
+nmo_dead_labs
+nmo_flowingdisaster_b3
+nmo_frostbite_b6
+nmo_lakeside
+nmo_sweden_beta4
+nmo_toxteth
+nms_Cabin_in_the_woodsc1
+nms_Gasstation_v2
+nms_Grave_Encounters_v4
+nms_Hershels_Farm_v6
+nms_Pedroxs_home
+nms_dead_chapel
+nms_evildeadcabin_beta5_1
+nms_favela
+nms_flooded
+nms_gun_store_b4
+nms_gymnasium_v1
+nms_highway
+nms_hmansion
+nms_horror
+nms_iceworld
+nms_insanity_v2
+nms_intersection_b1_3
+nms_isolated
+nms_last_stand_B2
+nms_lila_panic_B2
+nms_mallofdecay
+nms_mayantemple
+nms_motel_b2
+nms_nacht_der_untoten_v6
+nms_northway
+nms_office_suite_v5
+nms_outpost_v4
+nms_paradisefalls
+nms_subway_a2
+nms_testone
+nms_torn_b2
+nms_townsquare_v2
+nms_trainstation_v3
+nms_wd_prison_v8
+nms_whitehouse

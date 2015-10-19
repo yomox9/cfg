@@ -1,0 +1,7 @@
+say العربية,Bahasa Indonesia,Bahasa Melayu,Български,Català,Čeština
+say ,Dansk,Deutsch,Eesti,Ελληνικά,Español,Esperanto,Euskara,فارسی
+say ,Français,Galego,한국어,עברית,Hrvatski,Italiano,ქართული,Latviešu,Lietuvių
+say ,Magyar,Nederlands,日本語,Norsk bokmål,Norsk nynorsk,Polski,Português
+say ,Română,Русский,Slovenčina,Slovenščina,Српски / srpski
+say ,Srpskohrvatski / српскохрватски,Suomi,Svenska,ไทย
+say ,Tiếng Việt,Türkçe,Українська,中文
